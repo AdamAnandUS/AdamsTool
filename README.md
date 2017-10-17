@@ -1,19 +1,20 @@
 # adamstool README
 
-AdamsTool - Version 0.1.5
+Adam's Toolbar - Version 0.1.6
 
-Navigation using single mouse click.
+The goal of this extension toolbar is to perform some of the common operations using a single mouse-click.
 
 ## Features
 
-This tool adds three buttons to your Visual Studio Code statusbar.
+This toolbar adds five buttons to your Visual Studio Code statusbar.
 
-These buttons will help you navigate. Instead of clicking menu and then 
-clicking navigation, you can navigate using single mouse click.
+These buttons will help you navigate and debug.
 
 1. Go Back - This will navigate backwards.
 2. Go to last cursor location - This will navigate to the last position.
 3. Go Forward - This will navigate forward.
+4. Open integrated terminal - Will start a new terminal window.
+5. Start debugging - Will start debugging session. 
 
 ## Requirements
 
