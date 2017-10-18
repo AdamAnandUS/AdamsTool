@@ -104,6 +104,10 @@ class AdamsTool {
         this._sbiBack.dispose();
         this._sbiLast.dispose();
         this._sbiNext.dispose();
+        this._sbiTerminal.dispose();
+        this._sbiDbgStart.dispose();
+        this._sbiFoldAll.dispose();
+        this._sbiUnFoldAll.dispose();
     }
 
 }
