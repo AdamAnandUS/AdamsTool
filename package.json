@@ -2,7 +2,7 @@
     "name": "adamstool",
     "displayName": "Adam's Toolbar",
     "description": "Creates toolbar to help Visual Studio Code users.",
-    "version": "0.1.6",
+    "version": "0.1.7",
     "publisher": "AdamAnand",
     "icon": "assets/icon.png",
     "homepage": "https://github.com/AdamAnandUS/AdamsTool",
