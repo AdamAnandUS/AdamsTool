@@ -2,7 +2,7 @@
 
 Adam's Toolbar - Version 0.1.7
 
-The goal of this toolbar extension is to perform some of the common operations using a **single** mouse-click.
+Perform some of the common operations from the status bar at the bottom with a **single** mouse-click .
 
 ## Features
 
