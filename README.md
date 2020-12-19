@@ -34,3 +34,8 @@ No known issues.
 
 Initial Release of AdamsTool.
 
+## Toolbar Snapshot
+
+![Toolbar Snapshot](./assets/ToolbarSnapshot.png)
+
+
