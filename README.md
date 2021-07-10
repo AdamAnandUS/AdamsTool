@@ -1,6 +1,6 @@
 # adamstool README
 
-Adam's Toolbar - Version 0.1.7
+Adam's Toolbar - Version 0.1.8
 
 The goal of this toolbar extension is to perform some of the common operations using a **single** mouse-click.
 
@@ -17,10 +17,11 @@ These buttons will help you view, navigate and debug your source code.
 5. Start debugging - Will start debugging session. 
 6. Fold all source code - Will collapse the source code.
 7. Unfold all source code - Will expand the source code.
+8. Match Bracket - Will find the matching bracket.
 
 ## Requirements
 
-Built and tested on VS code version 1.17.1
+Built and tested on VS code version 1.58.0
 
 ## Extension Settings
 
@@ -34,8 +35,9 @@ No known issues.
 
 Initial Release of AdamsTool.
 
+Version 0.1.8 - Added 'Match Bracket' button. (7/10/2021)
+
 ## Toolbar Snapshot
 
 ![Toolbar Snapshot](./assets/ToolbarSnapshot.png)
-
 
